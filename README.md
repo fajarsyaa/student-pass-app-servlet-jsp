@@ -2,8 +2,8 @@
 ## this app for reqruitment test
 
 ## setup
-1. turn on your tomcat server
-2. access "http://localhost:8080/student-pass-app/"
+1. turn on your tomcat server (I recommend run using eclipse)
+3. access "http://localhost:8080/student-pass-app/"
 
 ## login password & user id
 ### select one
